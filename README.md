@@ -16,14 +16,6 @@ Detail is the main class. It creates an Employee and a Manager and calls display
 
 Running it
 
-You need the JDK installed.
-
-bash
-javac Detail.java
-java Detail
-
-The file has to be called Detail.java because the public class is named Detail.
-
 What it prints
 Name = Alam
 Salary = 95000.0
